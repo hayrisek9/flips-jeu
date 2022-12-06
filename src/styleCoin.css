@@ -1,0 +1,21 @@
+body{
+    background-color: darkorange;
+}
+.styleCoin{
+    background-color: #11270b;
+    color: #f4b942;
+    font-weight: bold;
+    
+}
+.styleCoin button{
+    background-color:#0b3954;
+    color: #fb8b24;
+    width: 97px;
+height: 53px;
+border-radius: 23px;
+cursor: pointer;
+}
+.styleCoin button:hover{
+    background-color: #880d1e;
+    color: antiquewhite;
+}
